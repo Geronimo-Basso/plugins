@@ -29,7 +29,7 @@ function pdev_styling_create_menu() {
 function pdev_styling_settings() {
 	?>
 	<div class="wrap">
-		<h1><span class="dashicons dashicons-smiley"></span> plugin</h1>
+		<h1><span class="dashicons dashicons-businesswoman"></span> plugin</h1>
 		<h2>My plugin</h2>
 		<h3>My plugin</h3>
 	</div>
